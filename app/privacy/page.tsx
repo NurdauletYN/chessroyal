@@ -4,7 +4,7 @@ export default function Privacy() {
       <h1>Privacy Policy</h1>
 
       <p>
-        Wizard Chess requires account creation.
+        Chess Royal requires account creation.
         We collect basic account information such as email
         to provide core functionality.
       </p>
@@ -18,7 +18,7 @@ export default function Privacy() {
         Users may request account deletion by contacting support.
       </p>
 
-      <p>Email: support@wizardchess.app</p>
+      <p>Email: nn.yerkinbekov@gmail.com</p>
 
       <p>Last updated: January 2026</p>
     </main>
