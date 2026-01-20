@@ -4,7 +4,7 @@ export default function Terms() {
       <h1>Terms of Use</h1>
 
       <p>
-        By using Wizard Chess, you agree to these terms.
+        By using Chess Royal, you agree to these terms.
       </p>
 
       <p>
@@ -12,7 +12,7 @@ export default function Terms() {
       </p>
 
       <p>
-        All content and assets are the property of Wizard Chess.
+        All content and assets are the property of Chess Royal.
       </p>
 
       <p>Last updated: January 2026</p>
