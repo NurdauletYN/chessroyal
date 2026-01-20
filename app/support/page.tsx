@@ -8,7 +8,7 @@ export default function Support() {
         contact us at:
       </p>
 
-      <p>Email: support@wizardchess.app</p>
+      <p>Email: nn.yerkinbekov@gmail.com</p>
     </main>
   );
 }
